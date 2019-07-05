@@ -1,0 +1,80 @@
+05-Jul-2019 17:08:33.564 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+05-Jul-2019 17:08:33.845 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[629]毫秒内初始化
+05-Jul-2019 17:08:33.940 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jul-2019 17:08:33.942 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.21]
+05-Jul-2019 17:08:34.209 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\docs]
+05-Jul-2019 17:08:34.231 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\docs] has finished in [23] ms
+05-Jul-2019 17:08:34.233 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\examples]
+05-Jul-2019 17:08:34.578 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\examples] has finished in [344] ms
+05-Jul-2019 17:08:34.580 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\host-manager]
+05-Jul-2019 17:08:34.609 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\host-manager] has finished in [29] ms
+05-Jul-2019 17:08:34.611 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\manager]
+05-Jul-2019 17:08:34.638 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\manager] has finished in [27] ms
+05-Jul-2019 17:08:34.644 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+05-Jul-2019 17:08:34.658 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in [761] milliseconds
+05-Jul-2019 17:51:15.733 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+05-Jul-2019 17:51:15.802 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+05-Jul-2019 17:53:15.888 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+05-Jul-2019 17:53:15.922 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+05-Jul-2019 17:57:06.011 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+05-Jul-2019 17:57:06.047 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+05-Jul-2019 17:58:26.077 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+05-Jul-2019 17:58:26.116 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+05-Jul-2019 17:59:06.133 信息 [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+05-Jul-2019 17:59:06.175 信息 [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+05-Jul-2019 18:21:46.729 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+05-Jul-2019 18:21:46.793 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+05-Jul-2019 18:23:16.833 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+05-Jul-2019 18:23:16.865 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+05-Jul-2019 18:31:47.074 信息 [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+05-Jul-2019 18:31:47.104 信息 [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+05-Jul-2019 18:34:47.159 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+05-Jul-2019 18:34:47.188 严重 [Catalina-utility-1] org.apache.catalina.core.StandardContext.startInternal One or more Filters failed to start. Full details will be found in the appropriate container log file
+05-Jul-2019 18:34:47.191 严重 [Catalina-utility-1] org.apache.catalina.core.StandardContext.startInternal Context [] startup failed due to previous errors
+05-Jul-2019 18:34:47.195 信息 [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+05-Jul-2019 18:35:29.609 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Jul-2019 18:35:29.727 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Jul-2019 18:35:29.736 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Jul-2019 18:35:29.742 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8080"]
+05-Jul-2019 18:35:36.666 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+05-Jul-2019 18:35:36.890 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[565]毫秒内初始化
+05-Jul-2019 18:35:36.897 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jul-2019 18:35:36.900 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.21]
+05-Jul-2019 18:35:37.108 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\docs]
+05-Jul-2019 18:35:37.132 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\docs] has finished in [24] ms
+05-Jul-2019 18:35:37.134 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\examples]
+05-Jul-2019 18:35:37.369 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\examples] has finished in [235] ms
+05-Jul-2019 18:35:37.372 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\host-manager]
+05-Jul-2019 18:35:37.401 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\host-manager] has finished in [30] ms
+05-Jul-2019 18:35:37.404 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\manager]
+05-Jul-2019 18:35:37.427 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\Awork\javaweb\tomcat\apache-tomcat-9.0.21\webapps\manager] has finished in [23] ms
+05-Jul-2019 18:35:37.434 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+05-Jul-2019 18:35:37.449 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in [557] milliseconds
+05-Jul-2019 18:38:47.526 信息 [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+05-Jul-2019 18:38:47.570 信息 [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+05-Jul-2019 18:40:07.602 信息 [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+05-Jul-2019 18:40:07.654 信息 [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+05-Jul-2019 18:42:07.729 信息 [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+05-Jul-2019 18:42:07.770 信息 [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+05-Jul-2019 18:48:21.431 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Jul-2019 18:48:21.523 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Jul-2019 18:48:21.538 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Jul-2019 18:48:21.541 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8080"]
+05-Jul-2019 18:53:11.516 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+05-Jul-2019 18:53:11.723 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[556]毫秒内初始化
+05-Jul-2019 18:53:11.731 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jul-2019 18:53:11.733 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.21]
+05-Jul-2019 18:53:11.941 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [F:\Awork\javaweb\demo\ServletDemo\apache-tomcat-9.0.21\webapps\docs]
+05-Jul-2019 18:53:11.962 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\Awork\javaweb\demo\ServletDemo\apache-tomcat-9.0.21\webapps\docs] has finished in [22] ms
+05-Jul-2019 18:53:11.964 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [F:\Awork\javaweb\demo\ServletDemo\apache-tomcat-9.0.21\webapps\examples]
+05-Jul-2019 18:53:12.191 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\Awork\javaweb\demo\ServletDemo\apache-tomcat-9.0.21\webapps\examples] has finished in [226] ms
+05-Jul-2019 18:53:12.193 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [F:\Awork\javaweb\demo\ServletDemo\apache-tomcat-9.0.21\webapps\host-manager]
+05-Jul-2019 18:53:12.220 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\Awork\javaweb\demo\ServletDemo\apache-tomcat-9.0.21\webapps\host-manager] has finished in [26] ms
+05-Jul-2019 18:53:12.222 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [F:\Awork\javaweb\demo\ServletDemo\apache-tomcat-9.0.21\webapps\manager]
+05-Jul-2019 18:53:12.245 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\Awork\javaweb\demo\ServletDemo\apache-tomcat-9.0.21\webapps\manager] has finished in [23] ms
+05-Jul-2019 18:53:12.252 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+05-Jul-2019 18:53:12.264 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in [537] milliseconds
+05-Jul-2019 18:53:17.328 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Jul-2019 18:53:17.409 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Jul-2019 18:53:17.431 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Jul-2019 18:53:17.446 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8080"]
